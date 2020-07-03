@@ -1,2 +1,2 @@
-# Air_Quality_Forecasting
+# AirQualityForecasting
 Proyecto de curso MA5201 Aprendizaje de máquinas
